@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#000000", // the color of the bar on the left
+        "activityBar.foreground": "#6ff104", // the active icon on the left bar and hover color of icons there
+        "activityBar.inactiveForeground": "#059ecd99", // the icon color on the left bar
+        "activityBarBadge.background": "#eecd0d", // the color of the badges on the icons on the left bar
+        "activityBarBadge.foreground": "#0e7ff0",
+        "titleBar.activeBackground": "#e69f08", // the color of the top bar
+        "titleBar.inactiveBackground": "#e8850399",
+        "titleBar.activeForeground": "#000000", // the top bar text color
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#000000", // the bar color at the bottom
+        "statusBarItem.hoverBackground": "#d53263", // the background color of the bottom bar on hover
+        "statusBar.foreground": "#1ed9e6" // the text on the bottom bar
+    },
+}
