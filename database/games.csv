@@ -1,31 +1,31 @@
-id,name,rank,genre,time,price,min_players,max_players,designer
-,Lords of Waterdeep,2.35,drinking,90,,1,4,Nick
-,What Do You Meme,4.09,card,25,,2,6,Matt Leacock
-,Life,2.29,turn-based,25,,1,1,Stephen
-,Settlers of Catan,3.45,chance,20,,1,6,Trevor
-,Coux,1.15,party,60,,2,4,Rachel
-,Connect-4,0.86,card,25,,2,5,Ron
-,What Do You Meme,0.13,card,25,,1,4,Jamey Stegmaier
-,Cards Against Humanity,1.46,horror,20,,2,7,Chase
-,Pictionary,0.54,card,90,,1,6,Hasbro
-,Cards Against Humanity,2.29,turn-based,180,,2,3,Morgan
-,Uno,3.90,puzzle,25,,1,8,Han
-,Boggle,2.12,RPG,180,,1,8,Brady
-,What Do You Meme,4.66,strategy,10,,2,3,Han
-,Sorry,3.45,strategy,90,,1,3,Jared Bourget
-,Connect-4,0.47,drinking,10,,1,1,Han
-,Don't Break the Ice,3.90,chance,180,,2,7,Bailey
-,Cootie,1.21,sci-fi,120,,2,7,Brady
-,Backgammon,4.55,horror,25,,2,3,Stephen
-,Settlers of Catan,0.74,drinking,45,,2,1,Matt Leacock
-,Backgammon,3.17,video,180,,2,2,Stephen
-,Outlaw,1.02,horticulture,45,,2,5,Jared Bourget
-,Twister,2.71,horticulture,30,,2,6,Ron
-,Balderdash,4.82,simulator,30,,2,3,Jordan
-,Snakes and Ladders,4.89,RPG,120,,1,8,Nick
-,Wizard Battle,4.78,horror,10,,2,5,Jared Bourget
-,Don't Break the Ice,1.89,mystery,25,,2,5,Nick
-,Cootie,2.13,strategy,30,,1,8,Trevor
-,Lords of Waterdeep,3.34,sci-fi,15,,2,6,Jeff Bentley
-,Coux,0.83,simulator,60,,1,7,Daniel Schewe
-,Cootie,1.89,video,150,,1,1,Rachel
+name,genre,time,price,min_players,max_players,designer,rank
+Sorry,cooperative,240,8.5,3,1,Grimoire Games,3.52
+Sushi Go,horticulture,210,25,2,7,Ron,4.55
+Twister,RPG,20,149.99,3,2,Cutthroat Craig,0.63
+Sushi Go,video,240,200,3,1,Jamey Stegmaier,0.73
+Cards Against Humanity,strategy,240,5.95,2,6,Bailey,2.76
+Uno,card,60,50,3,5,Sruj,3.95
+Cootie,video,60,100,2,3,Jeff Bentley,3.63
+Settlers of Catan,sci-fi,240,25,2,3,Trevor,2.31
+Wizard Battle,horror,10,50,3,7,Jacy,2.63
+Balderdash,party,150,100,3,3,Teddi Maull,3.49
+Settlers of Catan,mystery,15,25,2,2,Cutthroat Craig,3.09
+Twister,horror,90,50,2,6,Bandai,4.47
+Don't Break the Ice,simulator,180,50,3,7,Chase,3.64
+Sushi Go,cooperative,15,149.99,3,6,Jared Bourget,3.55
+Wizard Battle,strategy,20,49.99,2,3,Jared Bourget,4.57
+Backgammon,strategy,15,50,2,6,Ron,0.12
+13 Dead End Drive,drinking,270,8.5,3,3,Bailey,1.99
+Snakes and Ladders,cooperative,180,49.99,3,1,Jamey Stegmaier,3.67
+Twister,strategy,15,25,3,8,Chase,4.34
+Cootie,puzzle,270,9.89,2,3,Brady,2.91
+Lords of Waterdeep,chance,20,200,2,8,Jeff Bentley,2.49
+Outlaw,party,60,9.89,2,8,Bailey,2.26
+Lords of Waterdeep,strategy,25,200,2,3,Grimoire Games,2.85
+Sorry,drinking,120,200,3,2,Jeff Bentley,1.22
+Scrabble,simulator,180,49.99,3,1,Matt Leacock,3.72
+Cootie,simulator,10,25,2,1,Grimoire Games,1.91
+Mouse-Trap,RPG,300,8.5,3,5,Matt Leacock,3.31
+Mouse-Trap,card,25,149.99,3,3,Jordan,1.16
+Coux,horticulture,15,8.5,3,3,Grimoire Games,0.94
+Wizard Battle,horror,180,49.99,2,6,Ron,0.71
