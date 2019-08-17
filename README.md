@@ -1,1 +1,1 @@
-![ERD](board_game_track_erd.png)
+![ERD](game_tracker_erd.png)
